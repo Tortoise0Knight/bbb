@@ -4,9 +4,9 @@
 int main(void)
 {
 	printf("Hello, World!");
-	
+
 	return 0;
- } 
+ }
 
 int max (int a;int b){
 	if (a > b){
@@ -15,4 +15,9 @@ int max (int a;int b){
 	else{
 		return b;
 	}
+}
+
+int sum(int a;int b){
+
+	return a+b;
 }
