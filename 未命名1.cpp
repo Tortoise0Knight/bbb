@@ -1,5 +1,9 @@
 #include<bits/stdc++.h>
 
+int randd(int seed){
+	srand(seed);
+	cout<<rand()%100<<endl;
+}
 
 int main(void)
 {
