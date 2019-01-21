@@ -4,7 +4,7 @@ int randd(int seed){
 	srand(seed);
 	cout<<rand()%100<<endl;
 }
-
+lkjhxz
 int main(void)
 {
 	printf("Hello, World!");
